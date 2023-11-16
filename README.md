@@ -24,9 +24,12 @@ Hello fellow developers, my name is Caidyn Ginger. I've been developing for the 
 <br/>
 
 ### My Favourite Projects
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaidynGinger&repo=Ginger-Industries&theme=dark)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaidynGinger&repo=OpenStack&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaidynGinger&repo=industral-aether-software&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaidynGinger&repo=ArtStorm&theme=dark)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviovx&repo=Nova&theme=dark)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CaidynGinger&repo=calender&theme=dark)
+
+
 
 ## GitHub Stats
 
