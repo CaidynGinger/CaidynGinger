@@ -1,4 +1,4 @@
-![]()
+![](https://github.com/CaidynGinger/CaidynGinger/blob/main/CaidynGingerBanner.png)
 ![](https://komarev.com/ghpvc/?username=CaidynGinger&style=for-the-badge&color=red)
 
 **`Full Stack (Developer)`**
